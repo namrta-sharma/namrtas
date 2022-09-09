@@ -2,15 +2,16 @@ project:
   type: website
 
 website:
-  title: "namrtas.github.io"
+  title: "My website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: About.qmd
+      - href: about.qmd
         text: About
-      - href: Resume.qmd
+      - href: resume.qmd
         text: Resume
+        
 
 format:
   html:
